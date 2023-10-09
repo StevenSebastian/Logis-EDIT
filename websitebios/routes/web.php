@@ -15,7 +15,7 @@ use App\Http\Controllers\AnggotaController;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('layouts.template.Logis.index');
 });
 
 Auth::routes();
