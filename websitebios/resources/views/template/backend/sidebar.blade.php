@@ -16,21 +16,21 @@
 
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{route('pelaporan.index')}}">
+        <a class="nav-link collapsed" href="">
           <i class="bi bi-menu-button-wide"></i><span>Pelaporan</span>
         </a>
        
       </li><!-- End Components Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{route('siswa.index')}}">
+        <a class="nav-link collapsed" href="">
           <i class="bi bi-journal-text"></i><span>Siswa</span>
         </a>
 
       </li><!-- End Forms Nav -->
 
       <li class="nav-item">
-        <a class="nav-link collapsed" href="{{route('kategori.index')}}">
+        <a class="nav-link collapsed" href="">
           <i class="bi bi-layout-text-window-reverse"></i><span>Kategori</span>
         </a>
       
